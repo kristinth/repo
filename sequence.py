@@ -15,6 +15,8 @@ num_int_3 = 3
 
 counter = 3
 
+print(num_int_1,num_int_2,num_int_3, end= " ")
+
 while counter < n:
     next_int = num_int_1 + num_int_2 + num_int_3
     num_int_1 = num_int_2
